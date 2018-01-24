@@ -1,0 +1,8 @@
+{
+  "name": "Hiru_M3SQS_06",
+  "version": "23.01",
+  "dependencies": {
+    "aws-sdk": "2.176.0",
+    "@slappforge/slappforge-sdk": "0.0.3"
+  }
+}
